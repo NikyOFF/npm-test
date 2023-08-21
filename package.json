@@ -1,7 +1,7 @@
 {
   "scripts": {
     "prepare": "npm run build",
-    "build": "mkdir lib"
+    "build": "echo build for npm-test started!"
   },
   "dependencies": {
     "express": "^4.18.2"
